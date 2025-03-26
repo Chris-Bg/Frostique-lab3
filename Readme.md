@@ -1,4 +1,4 @@
-# Componente, Prop-uri & JSX - Implementare de UI Responsive  
+# Sarcini  
 
 ### 1. Inițiați un nou proiect *React* utilizând *Vite*.
 ### 2. Dezvoltați și implementați o pagină web bazată pe proiectul individual realizat în cadrul cursului de *"Design UI/UX"*. Cei care nu au avut un astfel de curs, vor căuta și selecta un design ce trebuie aprobat de profesor. Fișierul *Figma* să fie inclus în proiect.
@@ -10,3 +10,11 @@
 ### 8. Utilizați **alias-uri** pentru ușurarea importărilor.
 
 ### Exemplu de structură a unui astfel de proiect este [aici](https://github.com/cristi-usm/exemplu-lab3).
+
+# Changes
+
+Am atasat fisierul figma, dar nu am putut instala npm in acest repository pentru a lucra, deci am facut unul nou.
+
+Vezi aici: https://github.com/Chris-Bg/Frostique
+
+![img.png](img.png)
